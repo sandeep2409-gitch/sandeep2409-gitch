@@ -9,7 +9,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝
 ```
 
-### 👋 Hey, I'm **Sandeep Manchinasetti**
+###  Hey, I'm **Sandeep Manchinasetti**
 **B.Tech CSE (AI/ML) | Pydah College of Engineering**
 
 *Building intelligent systems at the intersection of AI and the Web*
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 sandeep = {
@@ -33,13 +33,13 @@ sandeep = {
     "cgpa"     : "7.5 – 8.5",
     "goal"     : "Building AI-powered web apps that solve real problems",
     "currently": "Exploring deep learning & full-stack development",
-    "fun_fact" : "I made an AI that reads MRI scans 🧠"
+    "fun_fact" : "I made an AI that reads MRI scans "
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -66,29 +66,29 @@ sandeep = {
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 **[Nuroliq AI – Brain Tumor Classifier](https://github.com/sandeep2409-gitch)** | MRI classification using EfficientNetB0 transfer learning | TensorFlow, Flask, OpenCV |
-| 👁️ **Face Recognition Attendance System** | Automated attendance via real-time face recognition | Python, OpenCV |
-| 🏫 **College 360** | Full-stack college management platform (attendance, timetables, events) | Node.js, MongoDB, React |
-| 🌾 **Farm Direct** | Platform connecting farmers directly to buyers | Node.js, MongoDB |
-| 🤟 **Sign Language → Text Converter** | Real-time gesture recognition for accessibility | Deep Learning, Computer Vision |
-| 🤖 **Jarvis – Personal AI Assistant** | Voice-activated AI for queries, apps & web search | Python, NLP, Speech Recognition |
-| 🔐 **Phishing Link Detector + Chrome Extension** | ML-based real-time phishing URL detection | Python, ML, Chrome APIs |
+|  **[Nuroliq AI – Brain Tumor Classifier]** | MRI classification using EfficientNetB0 transfer learning | TensorFlow, Flask, OpenCV |
+|  **Face Recognition Attendance System** | Automated attendance via real-time face recognition | Python, OpenCV |
+| **College 360** | Full-stack college management platform (attendance, timetables, events) | Node.js, MongoDB, React |
+|  **Farm Direct** | Platform connecting farmers directly to buyers | Node.js, MongoDB |
+| **Sign Language → Text Converter** | Real-time gesture recognition for accessibility | Deep Learning, Computer Vision |
+| **Jarvis – Personal AI Assistant** | Voice-activated AI for queries, apps & web search | Python, NLP, Speech Recognition |
+| **Phishing Link Detector + Chrome Extension** | ML-based real-time phishing URL detection | Python, ML, Chrome APIs |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-- ☕ **Java Basics** – Udemy
-- 🛡️ **Ethical Hacking** – EdiSkills
-- 🌐 **Full Stack Web Development** – EdiSkills *(In Progress)*
+- **Java Basics** – Udemy
+- **Ethical Hacking** – EdiSkills
+- **Full Stack Web Development** – EdiSkills *(In Progress)*
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -102,11 +102,11 @@ sandeep = {
 
 ---
 
-## 💡 What I'm Working On
+##  What I'm Working On
 
-- 🔭 Deepening expertise in **deep learning & computer vision**
-- 🌱 Building more **AI-integrated full-stack projects**
-- 👯 Open to **collaborations, internships & open-source contributions**
+- Deepening expertise in **deep learning & computer vision**
+-  Building more **AI-integrated full-stack projects**
+- Open to **collaborations, internships & open-source contributions**
 
 ---
 
@@ -114,7 +114,7 @@ sandeep = {
 
 *"The best way to predict the future is to build it."*
 
-⭐ **If you find my work interesting, consider starring a repo!** ⭐
+ **If you find my work interesting, consider starring a repo!** 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sandeep2409-gitch&color=0f172a&style=flat-square&label=Profile+Views)
 
