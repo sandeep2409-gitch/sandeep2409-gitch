@@ -14,7 +14,7 @@
 
 *Building intelligent systems at the intersection of AI and the Web*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sandeepmanchinasetti.vercel.app-0f172a?style=for-the-badge)](https://sandeepmanchinasetti.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sandeepmanchinasetti.vercel.app-0f172a?style=for-the-badge)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-manchinasetti)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep2409-gitch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepmanchinasetti007@gmail.com)
@@ -77,14 +77,6 @@ sandeep = {
 | **Sign Language → Text Converter** | Real-time gesture recognition for accessibility | Deep Learning, Computer Vision |
 | **Jarvis – Personal AI Assistant** | Voice-activated AI for queries, apps & web search | Python, NLP, Speech Recognition |
 | **Phishing Link Detector + Chrome Extension** | ML-based real-time phishing URL detection | Python, ML, Chrome APIs |
-
----
-
-## Certifications
-
-- **Java Basics** – Udemy
-- **Ethical Hacking** – EdiSkills
-- **Full Stack Web Development** – EdiSkills *(In Progress)*
 
 ---
 
