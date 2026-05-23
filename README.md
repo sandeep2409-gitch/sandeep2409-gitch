@@ -14,7 +14,7 @@
 *Building intelligent systems at the intersection of AI and the Web*
 
 [![Portfolio](https://img.shields.io/badge/_Portfolio-0f172a?style=for-the-badge)](https://sandeepmanchinasetti.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sandeep-manchinasetti](https://www.linkedin.com/in/sandeep-manchinasetti-bab221353/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-manchinasetti-bab221353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDctBIKpmRu%2BLSYw2jvDhIw%3D%3D)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep2409-gitch)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepmanchinasetti007@gmail.com)
 
