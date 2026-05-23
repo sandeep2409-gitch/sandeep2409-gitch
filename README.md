@@ -10,7 +10,6 @@
 ```
 
 ###  Hey, I'm **Sandeep Manchinasetti**
-**B.Tech CSE (AI/ML) | Pydah College of Engineering**
 
 *Building intelligent systems at the intersection of AI and the Web*
 
