@@ -26,10 +26,7 @@
 
 ```python
 sandeep = {
-    "role"     : "Full-Stack Developer + AI/ML Engineer",
-    "year"     : "B.Tech 2nd Year (CSE - AI/ML)",
-    "college"  : "Pydah College of Engineering",
-    "cgpa"     : "7.5 – 8.5",
+    "role"     : "Full-Stack Developer + AI/ML Engineer and Cybersecurity engineer",
     "goal"     : "Building AI-powered web apps that solve real problems",
     "currently": "Exploring deep learning & full-stack development",
     "fun_fact" : "I made an AI that reads MRI scans "
