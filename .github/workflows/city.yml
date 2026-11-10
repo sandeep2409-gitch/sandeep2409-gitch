@@ -1,0 +1,29 @@
+name: 3D City Builder
+
+on:
+  schedule:
+    # Runs at 00:00 IST (18:30 UTC) every day
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D City
+    permissions:
+      contents: write
+
+    steps:
+      - name: Isometric 3D Contribution City
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: profile-3d-city.svg
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
